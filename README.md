@@ -1,4 +1,7 @@
-# eZ-Home-Automation-Android-App
+# eZ-Home-Automation-Android-App  
+
+https://ezhome2016.wordpress.com/
+
 An easy to set up Android app to control electronic devices connected to Iot chip PC (Like raspberry Pi) through home-WiFi.
 
 
